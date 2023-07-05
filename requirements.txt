@@ -1,0 +1,6 @@
+Flask==1.1.2
+Flask-Cors
+
+# maybe you should downlaod ffmpeg 
+# brew install ffmpeg
+# - The error message indicates that there is a missing dependency required by the whisper library. Specifically, it mentions that the ffmpeg executable is not found.
